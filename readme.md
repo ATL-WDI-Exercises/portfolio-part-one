@@ -10,10 +10,10 @@ A wireframe is a simple blueprint/template/sketch/visual outline of the componen
 ## Schedule
 - 9:30 - 3:00 Lab time
   - Supporting Instructors:
-    - 9:30 - 11:00 Erica, Jesse, Andy, Adrian
-    - 1:00 - 3:00 Erica, Robin, Matt, Nick
-- 3:00 - 4:00 Peer code review (Classrooms)
-- 4:00 - 5:00 Squad check-in (TBD)
+    - 9:30 - 11:00 Marc
+    - 3:00 - 4:00 Mike
+- 4:00 - 4:30 Peer code review (Classrooms)
+- 4:30 - 5:00 Squad check-in (TBD)
 
 ## Some Things To Consider
 - Think about who you want to view your site (potential employers, freelance opportunities, friends). I know it is tempting to make it flashy, but the most important thing when designing your site is to make it EASY for your visitors to access the information they want and navigate around the page.
