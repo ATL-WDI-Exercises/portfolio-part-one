@@ -7,14 +7,6 @@ A wireframe is a simple blueprint/template/sketch/visual outline of the componen
 - READ ME: [Wireframe Basics](https://www.gliffy.com/uses/wireframe-software/)
 - Curious to learn more about wireframes? Ask a UXDI student!
 
-## Schedule
-- 9:30 - 3:00 Lab time
-  - Supporting Instructors:
-    - 9:30 - 11:00 Marc
-    - 3:00 - 4:00 Mike
-- 4:00 - 4:30 Peer code review (Classrooms)
-- 4:30 - 5:00 Squad check-in (TBD)
-
 ## Some Things To Consider
 - Think about who you want to view your site (potential employers, freelance opportunities, friends). I know it is tempting to make it flashy, but the most important thing when designing your site is to make it EASY for your visitors to access the information they want and navigate around the page.
 - Think about the goal for your site and what you want your users to do (read about your story, look at your work/code/writing, contact you). Guide them to taking those actions by making them prominent / easy to find.
