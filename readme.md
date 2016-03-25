@@ -29,7 +29,7 @@ A wireframe is a simple blueprint/template/sketch/visual outline of the componen
     - [Click the heart ](http://jessicahische.is/)
 - Deploy your site to Github Pages
   - [Github Pages](https://pages.github.com/)
-  - [Github Pages Tutorial](https://www.thinkful.com/learn/a-guide-to-using-github-pages/)
+  - [Github Pages Tutorial](http://learntocodewith.me/tutorials/github-pages/)
 - Purchase a domain name
   - [namecheap](www.namecheap.com)
   - [iwantmyname](https://iwantmyname.com/)
